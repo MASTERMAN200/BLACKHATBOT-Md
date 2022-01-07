@@ -1,2 +1,2 @@
-web: node .
-worker : npm i ffmpeg && npm i @adiwajshing/baileys@latest && node .
+worker npm start
+
