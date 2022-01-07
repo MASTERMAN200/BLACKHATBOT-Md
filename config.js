@@ -1,6 +1,6 @@
-global.owner = ['62895369318181'] // Put your number here
-global.mods = ['62895369318181'] // Want some help?
-global.prems = ['62895369318181'] // Premium user has unlimited limit
+global.owner = ['6281376900646','6289625556161'] // Put your number here
+global.mods = [''] //Want some help?
+global.prems = [''] //Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -28,10 +28,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'B L A C K H A T B O T'
+global.packname = 'ZeilBotz'
 global.author = 'Sih Bodoh Tersakiti'
 
-global.wm = '© Made by AhmadChenDev'
+global.wm = '© Made by ZeilBotz'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 
 global.wait = '_*tunggu sedang di proses...*_'
